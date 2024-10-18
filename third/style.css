@@ -1,0 +1,15 @@
+div{
+    padding: 30px;
+}
+img{
+    width: 200px;
+}
+.one{
+    float: right;
+}
+.two{
+    float: left;
+}
+.three{
+    clear: both;
+}
