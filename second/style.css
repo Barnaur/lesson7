@@ -1,0 +1,16 @@
+
+   
+   div {
+    width: 1000px;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    /* display: block; */
+    /* display: inline; */
+    /* display: inline-block; */
+    /* display: none; */
+    /* display: flex; */
+    display: grid;
+    box-sizing: border-box;
+   }
+ 
